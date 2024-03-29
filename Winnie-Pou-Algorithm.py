@@ -19,7 +19,7 @@ ax = fig.add_subplot()
 canvas = FigureCanvasTkAgg(fig, master=window)
 toolbar = NavigationToolbar2Tk(canvas, window, pack_toolbar=False)
 
-text_val = True
+text_val = False
 
 def send():
     try:
