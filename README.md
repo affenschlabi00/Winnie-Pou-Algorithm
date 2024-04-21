@@ -8,10 +8,12 @@ This Python algorithm calculates how many circles of a given radius can fit with
 This algorithm requires the following dependencies:
 
     matplotlib
+    customtkinter
 
 You can install these dependencies using pip:
 
     pip install matplotlib
+    pip install customtkinter
     
 ## Usage
 To use this algorithm, simply run the Winnie-Pou-Algorithm.py script and you will understand it as you go.
