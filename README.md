@@ -1,5 +1,7 @@
 Version 1.1.0
 
+This Version only supports: [WINDOWS]
+
 # Winnie-Pou-Algorithm
 
 This Python algorithm calculates how many circles of a given radius can fit within a larger circle. This is useful for visualizing and optimizing the packing of items in a circular area, such as in a game or design layout.
