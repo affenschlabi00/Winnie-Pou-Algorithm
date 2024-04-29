@@ -1,4 +1,6 @@
-Version 1.1.0
+Classic Version 1.1.0
+
+This Version only supports: [WINDOWS]
 
 # Winnie-Pou-Algorithm
 
